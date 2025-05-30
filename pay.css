@@ -1,0 +1,26 @@
+:root {
+    --color-white: #fff;
+}
+
+body{
+    grid-template-columns: 17rem auto;
+}
+
+.payTable{
+    height: fit-content;
+    margin-top: 6rem;
+}
+
+.payTable th{
+    text-align: left;
+    padding: 0.8rem;
+}
+
+.payTable td{
+    padding: 1rem;
+}
+
+.payTable tbody tr:nth-child(odd){
+    background: var(--color-white);
+}
+
