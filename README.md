@@ -1,8 +1,8 @@
-# Human Resource System - Protótipo Visual para Gestão de RH
+# Human Resource System - Protótipo Visual para Gestão de RH 
 
 <div align="center">
 
-# Human Resource System - Protótipo Visual
+# Human Resource System - Protótipo Visual- Contactus
 
 **Protótipo de sistema de gestão de RH inspirado em soluções da Administração Pública, focado em layout, navegação e organização das informações.**
 
