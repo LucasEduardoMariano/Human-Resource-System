@@ -7,7 +7,6 @@
 ---
 
 ![img1](https://github.com/user-attachments/assets/f665266f-f68c-4d13-8c85-97b2975d95d3)
-*Imagem do protótipo*  
 
 </div>
 
